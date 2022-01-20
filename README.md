@@ -9,9 +9,9 @@
 <p align='center'> I'm a passionate student reading for a B.Sc in Computer Science from the University of West Indies. I use personal projects as a means to grow my technical knowledge then I use coding competitions with friends as a means to showcase the technical knowledge I have learned. </p>
 
 ## Interests
-- AI and ML
 - Software Development
 - Autonomous Technology
+- Everything Startup Related
 
 ## Currently Learning
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/50/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
