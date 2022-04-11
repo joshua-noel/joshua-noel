@@ -6,12 +6,15 @@
   <a href="https://www.linkedin.com/in/noelejoshua/"><img src="https://img.icons8.com/color/80/000000/linkedin.png"/></a>
 </p>
 
-<p align='center'> I'm a passionate student reading for a B.Sc in Computer Science from the University of West Indies. I use personal projects as a means to grow my technical knowledge then I use coding competitions with friends as a means to showcase the technical knowledge I have learned. </p>
+<p align='center'> I'm a passionate student reading for a B.Sc in Computer Science from the University of West Indies. I am always open to opportunities to grow my technical knowledge and abilities. </p>
 
 ## Interests
 - Software Development
 - Autonomous Technology
 - Everything Startup Related
 
+## Professional Contact
+- noelejoshua@gmail.com
+
 ## Currently Learning
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/50/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
