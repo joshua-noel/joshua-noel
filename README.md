@@ -18,3 +18,7 @@
 
 ## Currently Learning
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-noel&show_icons=true&theme=tokyonight)](https://github.com/joshua-noel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-noel&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/joshua-noel)
