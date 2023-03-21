@@ -1,7 +1,7 @@
 <h1 align='center'> Hi, I'm Joshua Noel 👋</h1>
 
 <p align='center'>
-  <a href="https://www.instagram.com/_joshua.noel_/"><img src="https://img.icons8.com/color/80/000000/instagram-new--v1.png"/></a>
+  <a href="https://www.instagram.com/joshuanoel.tt/"><img src="https://img.icons8.com/color/80/000000/instagram-new--v1.png"/></a>
   <a href="https://twitter.com/_JoshuaNoel_/"><img src="https://img.icons8.com/color/80/000000/twitter--v1.png"/></a>
   <a href="https://www.linkedin.com/in/noelejoshua/"><img src="https://img.icons8.com/color/80/000000/linkedin.png"/></a>
 </p>
