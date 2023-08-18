@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/noelejoshua/"><img src="https://img.icons8.com/color/80/000000/linkedin.png"/></a>
 </p>
 
-<p align='center'> I'm a passionate student reading for a B.Sc in Computer Science from the University of West Indies. I am always open to opportunities to grow my technical knowledge and abilities. </p>
+<p align='center'> Student trying his best to improve and become a 10x developer</p>
 
 ## Interests
 - Software Development
@@ -18,7 +18,5 @@
 
 ## Currently Learning
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-noel&show_icons=true&theme=tokyonight)](https://github.com/joshua-noel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-noel&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/joshua-noel)
